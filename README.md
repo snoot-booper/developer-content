@@ -43,5 +43,10 @@ https://www.youtube.com/@ThePrimeagen
 
 Uses Vim.
 
+### TkDodo
+https://tkdodo.eu/blog/
+
+Sweet Typescript and Tanstack Query patterns.
+
 --- 
 TBC
